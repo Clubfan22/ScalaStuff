@@ -6,3 +6,7 @@
 /src/main/scala/GameOfLifePredef.scala
 /src/main/scala/MasterMindSkeleton.scala
 /src/main/scala/NewtonPredef.scala
+.idea/inspectionProfiles/
+.idea/workspace.xml
+src/test/
+target/
